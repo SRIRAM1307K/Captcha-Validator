@@ -18,6 +18,7 @@ function generate(){
 
 
 
+
 btn2.addEventListener("click", function(){
     if(captchaDisplay.textContent===captchaInput.value){
         alert("You're Correct")
@@ -36,4 +37,6 @@ reset.addEventListener("click",function(){
     captchaDisplay.innerHTML=''
     captchaInput.value=''
 })
+
+window.onload = generate
 
