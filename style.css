@@ -22,11 +22,12 @@
 }
 #captchaDisplay {
   color: #7cb900;
-  margin: 3vh;
+  margin: 3vh auto;
   border: 2px solid #a0c878;
   border-radius: 2vh;
-  padding: 1vh;
+  padding: 2vh;
   font-size: 3vh;
+  width: 50%;
 }
 .btns {
   margin-top: 2em;
