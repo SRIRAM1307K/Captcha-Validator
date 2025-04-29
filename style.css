@@ -38,7 +38,7 @@
   font-size: 2vh;
   border: 1px solid #626f47;
   background-color: #a0c878;
-  color: black;
+  font-weight: 500;
 }
 .btns button:hover {
   cursor: pointer;
@@ -51,7 +51,7 @@
   font-size: 2vh;
   border: 1px solid #626f47;
   background-color: #a0c878;
-  color: black;
+  font-weight: 500;
 }
 #btn3:hover {
   cursor: pointer;
